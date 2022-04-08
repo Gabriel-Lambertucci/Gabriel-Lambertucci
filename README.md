@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Lambertucci</h1>
-<h3 align="center">A passionate Full-stack Web Development student at Trybe from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Gabriel Lambertucci</h1>
+<h3 align="left">A passionate Full-stack Web Development student at Trybe from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-lambertucci&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-lambertucci" /> </p>
 
