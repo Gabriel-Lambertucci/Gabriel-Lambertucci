@@ -8,6 +8,8 @@
 <p> Graduando em Engenharia de Controle e Automação pela UFMG, decidi no ano de 2021 seguir com um novo curso em paralelo de Desenvolvimento FullStack na Trybe em parceria com a XP inc. 
 Posso afirmar que um novo ciclo na minha vida se inciou com essa escolha, pois o desenvolvimento Web que estou conhecendo a fundo agora, me apresentou uma nova perspectiva de trabalho com Tecnologia, que é minha paixão. Meu maior objetivo é encontrar uma vaga como Desenvolvedor Web em um local colaborativo e que me permita estar em constante crescimento. </p>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
