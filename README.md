@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Gabriel Lambertucci</h1>
+<h1 align="left">Oi 👋, Meu nome é Gabriel Lambertucci</h1>
 <h3 align="left">Estudante de Desenvolvimento Web Full-stack na Trybe do Brasil/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-lambertucci&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-lambertucci" /> </p>
