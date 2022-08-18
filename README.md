@@ -1,12 +1,12 @@
 <h1 align="left">Oi 👋, Meu nome é Gabriel Lambertucci</h1>
 
-<h3 align="left">Estudante de Desenvolvimento Web Full-stack na Trybe do Brasil</h3>
+<h3 align="left">Desenvolvedor Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-lambertucci&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-lambertucci" /> </p>
 
 
 <p> Graduando em Engenharia de Controle e Automação pela UFMG, decidi no ano de 2021 seguir com um novo curso em paralelo de Desenvolvimento FullStack na Trybe em parceria com a XP inc. 
-Posso afirmar que um novo ciclo na minha vida se inciou com essa escolha, pois o desenvolvimento Web que estou conhecendo a fundo agora, me apresentou uma nova perspectiva de trabalho com Tecnologia, que é minha paixão. Meu maior objetivo é encontrar uma vaga como Desenvolvedor Web em um local colaborativo e que me permita estar em constante crescimento. </p>
+Posso afirmar que um novo ciclo na minha vida se inciou com essa escolha, pois o desenvolvimento Web me apresentou uma nova perspectiva de trabalho com Tecnologia, que é minha paixão. Meu maior objetivo é encontrar uma vaga como Desenvolvedor Backend em um local colaborativo e que me permita estar em constante crescimento. </p>
 
 ---
 
